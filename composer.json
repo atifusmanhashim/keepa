@@ -1,0 +1,6 @@
+{
+    "require": {
+        "keepa/php_api": "^2.0",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
